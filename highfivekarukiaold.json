@@ -1,0 +1,9 @@
+{
+  "schema": 1,
+  "productId": "highfivekarukiaold",
+  "latestVersion": "1.03",
+  "releasedAt": "2026-11-15",
+  "message_ja": "左右のハイタッチ演出を独立させ、両手同時・連続時に片側が途中で止まる問題を修正しました。更新後はセットアップから各アバターに再装着し、再アップロードしてください。",
+  "message_en": "Independent left/right effects fix interruption during simultaneous or closely spaced high fives. After import, run setup again for each installed avatar, then upload the avatar.",
+  "buyUrl": "https://rionyan.booth.pm/items/9025452"
+}
